@@ -1,0 +1,54 @@
+h1 {
+  background-color: gold;
+  text-align: center;
+  font-size: 22pt;
+  text-decoration: underline;
+}
+body {
+  color: #404040;
+  font-size: 11pt;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/88/Orneta_kosciol_sw_Jana_fryz_%282%29.jpg);
+  background-size: 100px;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+strong {
+  background-color: gold;
+}
+em {
+  color: blueviolet;
+}
+.chart {
+  text-align: left;
+  background-color: lightgrey;
+}
+div {
+  display: block;
+  background-color: white;
+}
+
+figure {
+  display: inline-block;
+  background-color: white;
+}
+h3 {
+  font-size: 18pt;
+  text-decoration: underline;
+  background-color: white;
+}
+a:link {
+  color: #a4a400;
+}
+a:visited {
+  color: #a4a400;
+}
+blockquote {
+  background-color: #ffffa8;
+  font-style: italic;
+}
+p {
+  background-color: white;
+}
+img {
+  background-color: white;
+}
